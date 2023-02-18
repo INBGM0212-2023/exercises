@@ -1,4 +1,4 @@
-[↑ Vissza a szülő kategóriához](./README.md)
+[↑ Vissza a szülő kategóriához](../README.md)
 
 # 2. hét
 

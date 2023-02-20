@@ -56,11 +56,5 @@
       "out": 195.0,
       "limit": 0.5
     }
-  ],
-  "tests": [
-    "test-01",
-    "test-02",
-    "test-03"
-  ],
-  "timeout-cmd": 1
+  ]
 }

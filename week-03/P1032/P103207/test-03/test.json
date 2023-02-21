@@ -1,0 +1,68 @@
+{
+  "are_twin_primes": [
+    {
+      "in": {
+        "n": 6,
+        "m": 3
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 7,
+        "m": 3
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 8,
+        "m": 7
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 4,
+        "m": 1
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 2,
+        "m": 6
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 2,
+        "m": 10
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 6,
+        "m": 6
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 6,
+        "m": 5
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

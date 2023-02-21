@@ -1,0 +1,36 @@
+{
+  "are_relative_primes": [
+    {
+      "in": {
+        "a": 95,
+        "b": 3
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 82,
+        "b": 33
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 32,
+        "b": 15
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 7,
+        "b": 44
+      },
+      "out": true,
+      "limit": 0.5
+    }
+  ]
+}

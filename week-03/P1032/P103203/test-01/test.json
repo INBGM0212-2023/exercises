@@ -1,0 +1,52 @@
+{
+  "are_relative_primes": [
+    {
+      "in": {
+        "a": 28,
+        "b": 19
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 24,
+        "b": 59
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 57,
+        "b": 50
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 63,
+        "b": 38
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 96,
+        "b": 63
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 6,
+        "b": 28
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "are_twin_primes": [
+    {
+      "in": {
+        "n": 4,
+        "m": 9
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 3,
+        "m": 6
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 10,
+        "m": 2
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

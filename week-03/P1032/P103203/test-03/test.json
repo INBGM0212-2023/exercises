@@ -1,0 +1,76 @@
+{
+  "are_relative_primes": [
+    {
+      "in": {
+        "a": 75,
+        "b": 28
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 71,
+        "b": 59
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 27,
+        "b": 87
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 98,
+        "b": 31
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 40,
+        "b": 88
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 71,
+        "b": 74
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 7,
+        "b": 56
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 40,
+        "b": 92
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "a": 7,
+        "b": 89
+      },
+      "out": true,
+      "limit": 0.5
+    }
+  ]
+}

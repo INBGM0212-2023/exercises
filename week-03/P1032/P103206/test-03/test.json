@@ -1,0 +1,74 @@
+{
+  "is_prime": [
+    {
+      "in": {
+        "n": 43
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 832
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 146
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 822
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 238
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 653
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 808
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 632
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 242
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 854
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

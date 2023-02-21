@@ -1,0 +1,46 @@
+{
+  "is_prime": [
+    {
+      "in": {
+        "n": 703
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 682
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 285
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 931
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 682
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "n": 310
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

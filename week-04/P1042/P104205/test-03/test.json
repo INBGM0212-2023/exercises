@@ -1,0 +1,134 @@
+{
+  "is_strictly_monotone_decreasing": [
+    {
+      "in": {
+        "numbers": [
+          58,
+          -73,
+          -20,
+          31,
+          -83,
+          -87,
+          82
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          75
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -96
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -38,
+          78,
+          24,
+          -92
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -49,
+          -77,
+          -75,
+          97,
+          94
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -89
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          88,
+          -87,
+          28,
+          64,
+          88,
+          68
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          32,
+          44,
+          -44,
+          -92,
+          5,
+          86,
+          76,
+          -53,
+          -35,
+          -42
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -90,
+          19,
+          -20,
+          -91,
+          51,
+          -38,
+          -63,
+          -72,
+          -54,
+          71
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          94,
+          -14,
+          -92,
+          55,
+          66
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

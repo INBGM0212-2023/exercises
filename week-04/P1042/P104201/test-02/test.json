@@ -1,0 +1,38 @@
+{
+  "is_palindrome": [
+    {
+      "in": {
+        "numbers": [
+          -41,
+          6,
+          63,
+          -27,
+          47
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          75
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          17,
+          26,
+          -78,
+          89
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

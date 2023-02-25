@@ -1,0 +1,77 @@
+{
+  "is_palindrome": [
+    {
+      "in": {
+        "numbers": [
+          -95,
+          59,
+          -29,
+          55,
+          -43,
+          -39,
+          6,
+          91,
+          88,
+          -3
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -69,
+          42,
+          20,
+          57
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -66
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          60,
+          4,
+          13,
+          -22
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          34,
+          -78
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -85,
+          -39,
+          99,
+          93
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

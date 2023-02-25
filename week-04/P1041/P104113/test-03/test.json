@@ -1,0 +1,48 @@
+{
+  "count_of_non_decreasing_neighbours": [
+    {
+      "in": {
+        "numbers": [
+          -52
+        ]
+      },
+      "out": 0,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -96,
+          -90
+        ]
+      },
+      "out": 1,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          47,
+          76,
+          -67,
+          42
+        ]
+      },
+      "out": 2,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -69,
+          78,
+          86,
+          -6,
+          -70
+        ]
+      },
+      "out": 2,
+      "limit": 0.5
+    }
+  ]
+}

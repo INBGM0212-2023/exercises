@@ -1,0 +1,56 @@
+{
+  "is_strictly_monotone_increasing": [
+    {
+      "in": {
+        "numbers": [
+          36,
+          -41,
+          -84,
+          25,
+          32,
+          69
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          33,
+          -1,
+          32,
+          87
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          38,
+          -98
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          19,
+          44,
+          23,
+          -85,
+          -39,
+          -60,
+          -29,
+          -7
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

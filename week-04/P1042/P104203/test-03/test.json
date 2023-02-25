@@ -1,0 +1,68 @@
+{
+  "is_strictly_monotone_increasing": [
+    {
+      "in": {
+        "numbers": [
+          23,
+          89,
+          89,
+          -61,
+          39,
+          8,
+          3,
+          9,
+          8
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          89,
+          -74,
+          -37,
+          56
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          39,
+          -78,
+          69,
+          -37,
+          -42,
+          62
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          83,
+          -74,
+          -72,
+          64
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -64
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    }
+  ]
+}

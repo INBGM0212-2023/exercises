@@ -1,0 +1,55 @@
+{
+  "has_matching_parity": [
+    {
+      "in": {
+        "numbers": [
+          -25,
+          -49,
+          -93,
+          -76,
+          -96,
+          69,
+          16
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -4,
+          90,
+          53,
+          42
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -48
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -39,
+          46,
+          73,
+          33,
+          60,
+          -42,
+          -86
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

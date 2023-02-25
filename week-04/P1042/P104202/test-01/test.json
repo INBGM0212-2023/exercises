@@ -1,0 +1,75 @@
+{
+  "is_monotone_increasing": [
+    {
+      "in": {
+        "numbers": [
+          -16,
+          49,
+          -15,
+          74,
+          -1
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          22,
+          -50,
+          -98
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          3
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          17,
+          58,
+          70,
+          13,
+          -11,
+          79,
+          -44,
+          -48,
+          -32
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -85,
+          66,
+          19
+        ]
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "numbers": [
+          -30,
+          77
+        ]
+      },
+      "out": true,
+      "limit": 0.5
+    }
+  ]
+}

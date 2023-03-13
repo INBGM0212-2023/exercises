@@ -1,0 +1,60 @@
+{
+  "double_odd_digits": [
+    {
+      "in": {
+        "original": "cbK7bsw217p1UzwjFg"
+      },
+      "out": "cbK77bsw21177p11UzwjFg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": " M97w397"
+      },
+      "out": " M9977w339977",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "75n5VF37aQ"
+      },
+      "out": "7755n55VF3377aQ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Ism379G1vZu3Z9"
+      },
+      "out": "Ism337799G11vZu33Z99",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "2y59j9lBA35j1S57aA3595"
+      },
+      "out": "2y5599j99lBA3355j11S5577aA33559955",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "w6"
+      },
+      "out": "w6",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "K53d"
+      },
+      "out": "K5533d",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "3d7NOqoi33prJobP1HVgs1aX1l1"
+      },
+      "out": "33d77NOqoi3333prJobP11HVgs11aX11l11",
+      "limit": 0.5
+    }
+  ]
+}

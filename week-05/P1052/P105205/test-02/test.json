@@ -1,0 +1,32 @@
+{
+  "double_vowels": [
+    {
+      "in": {
+        "original": "x"
+      },
+      "out": "x",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "NDoo6uGeIepehiSuDteDolSu4"
+      },
+      "out": "NDoooo6uuGeeIIeepeehiiSuuDteeDoolSuu4",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "er arx7"
+      },
+      "out": "eer aarx7",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "N5e Yuumap"
+      },
+      "out": "N5ee Yuuuumaap",
+      "limit": 0.5
+    }
+  ]
+}

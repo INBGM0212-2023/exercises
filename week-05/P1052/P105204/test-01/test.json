@@ -1,0 +1,39 @@
+{
+  "double_digits": [
+    {
+      "in": {
+        "original": "7"
+      },
+      "out": "77",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "568 61k8HR6518Pmc2j1X"
+      },
+      "out": "556688 6611k88HR66551188Pmc22j11X",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "K1EG6tTL99XD40Uq135"
+      },
+      "out": "K11EG66tTL9999XD4400Uq113355",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "J964JP"
+      },
+      "out": "J996644JP",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "B72580JT5"
+      },
+      "out": "B7722558800JT55",
+      "limit": 0.5
+    }
+  ]
+}

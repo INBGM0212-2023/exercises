@@ -1,0 +1,67 @@
+{
+  "double_odd_digits": [
+    {
+      "in": {
+        "original": "5o"
+      },
+      "out": "55o",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "dPRrR3C991a3v1"
+      },
+      "out": "dPRrR33C999911a33v11",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "GHpplB"
+      },
+      "out": "GHpplB",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "9N1Y9U4yUN7w3"
+      },
+      "out": "99N11Y99U4yUN77w33",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "SeW"
+      },
+      "out": "SeW",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "323330E9xv3E8"
+      },
+      "out": "3323333330E99xv33E8",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "A5e1N55C90K5huLq04LE95pqwF7XF"
+      },
+      "out": "A55e11N5555C990K55huLq04LE9955pqwF77XF",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "g13E7EY6K37yIEM 9p53w"
+      },
+      "out": "g1133E77EY6K3377yIEM 99p5533w",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "4"
+      },
+      "out": "4",
+      "limit": 0.5
+    }
+  ]
+}

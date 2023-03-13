@@ -1,0 +1,39 @@
+{
+  "double_digits": [
+    {
+      "in": {
+        "original": "SHv73id51Kmpe"
+      },
+      "out": "SHv7733id5511Kmpe",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "08753f8"
+      },
+      "out": "0088775533f88",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "P6bOj378B598aOm380013 8"
+      },
+      "out": "P66bOj337788B559988aOm338800001133 88",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "9L7DC463255wNL3JFk9ah1"
+      },
+      "out": "99L77DC446633225555wNL33JFk99ah11",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "2126HiX46p1cV"
+      },
+      "out": "22112266HiX4466p11cV",
+      "limit": 0.5
+    }
+  ]
+}

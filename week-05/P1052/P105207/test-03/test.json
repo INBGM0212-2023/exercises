@@ -1,0 +1,67 @@
+{
+  "double_even_digits": [
+    {
+      "in": {
+        "original": "1LTv2KYO3"
+      },
+      "out": "1LTv22KYO3",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "8d6H6SN62"
+      },
+      "out": "88d66H66SN6622",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "5DXk4I7s1p3At06Idl40uX"
+      },
+      "out": "5DXk44I7s1p3At0066Idl4400uX",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "yhZ461tk4R9mQg"
+      },
+      "out": "yhZ44661tk44R9mQg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "g0244xXmgy42XUn2"
+      },
+      "out": "g00224444xXmgy4422XUn22",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "098Ix08e42z0F0 PI0Dz030r3"
+      },
+      "out": "00988Ix0088e4422z00F00 PI00Dz00300r3",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "j0BmBu686Ky2HPxS18T829dNE8MyKp"
+      },
+      "out": "j00BmBu668866Ky22HPxS188T88229dNE88MyKp",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "c4ZqrY2mRo93820Iwv"
+      },
+      "out": "c44ZqrY22mRo93882200Iwv",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Ie"
+      },
+      "out": "Ie",
+      "limit": 0.5
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "double_consonants": [
+    {
+      "in": {
+        "original": "nmrL"
+      },
+      "out": "nnmmrrLL",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "mG"
+      },
+      "out": "mmGG",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "vGqxhddxAJjPqftotQnsn3hbgmxP"
+      },
+      "out": "vvGGqqxxhhddddxxAJJjjPPqqffttottQQnnssnn3hhbbggmmxxPP",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "j1uNCHd"
+      },
+      "out": "jj1uNNCCHHdd",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "fRylGrylTLvylSg7A"
+      },
+      "out": "ffRRyyllGGrryyllTTLLvvyyllSSgg7A",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "bh0w7UOgfptADqgEOwwvVQm"
+      },
+      "out": "bbhh0ww7UOggffppttADDqqggEOwwwwvvVVQQmm",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "jmuJOwrhrpwgfhwUqI qOk"
+      },
+      "out": "jjmmuJJOwwrrhhrrppwwggffhhwwUqqI qqOkk",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "aqnKjUqbjwyg"
+      },
+      "out": "aqqnnKKjjUqqbbjjwwyygg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "nzyHgcf"
+      },
+      "out": "nnzzyyHHggccff",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ebtkDc9T2zFp"
+      },
+      "out": "ebbttkkDDcc9TT2zzFFpp",
+      "limit": 0.5
+    }
+  ]
+}

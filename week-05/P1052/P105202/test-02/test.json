@@ -1,0 +1,32 @@
+{
+  "double_lowers": [
+    {
+      "in": {
+        "original": "lR3nIIcj"
+      },
+      "out": "llR3nnIIccjj",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "GaqdlXxtLHSj"
+      },
+      "out": "GaaqqddllXxxttLHSjj",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "9vAExLWQ Fjg"
+      },
+      "out": "9vvAExxLWQ Fjjgg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "uNdleu"
+      },
+      "out": "uuNddlleeuu",
+      "limit": 0.5
+    }
+  ]
+}

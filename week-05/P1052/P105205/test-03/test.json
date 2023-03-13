@@ -1,0 +1,60 @@
+{
+  "double_vowels": [
+    {
+      "in": {
+        "original": "ocGoi"
+      },
+      "out": "oocGooii",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ucpeHVrwINsuQlueuYepu"
+      },
+      "out": "uucpeeHVrwIINsuuQluueeuuYeepuu",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "xhao1ehm OzLZ3e367Mli0ooGea"
+      },
+      "out": "xhaaoo1eehm OOzLZ3ee367Mlii0ooooGeeaa",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "eeI5WCAyaeV3WadGoeyugoaF6tFoGg"
+      },
+      "out": "eeeeII5WCAAyaaeeV3WaadGooeeyuugooaaF6tFooGg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Weiaiia7QEikoo"
+      },
+      "out": "Weeiiaaiiiiaa7QEEiikoooo",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Ys08iERuaOEz"
+      },
+      "out": "Ys08iiEERuuaaOOEEz",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "gB qmej"
+      },
+      "out": "gB qmeej",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "uioeMLYq6pNiHyiu9Pnec"
+      },
+      "out": "uuiiooeeMLYq6pNiiHyiiuu9Pneec",
+      "limit": 0.5
+    }
+  ]
+}

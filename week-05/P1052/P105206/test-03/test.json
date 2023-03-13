@@ -1,0 +1,32 @@
+{
+  "double_consonants": [
+    {
+      "in": {
+        "original": "3txdqcv3"
+      },
+      "out": "3ttxxddqqccvv3",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "scjcqhd"
+      },
+      "out": "ssccjjccqqhhdd",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "vhh0fjztp0h6K"
+      },
+      "out": "vvhhhh0ffjjzzttpp0hh6KK",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "jn"
+      },
+      "out": "jjnn",
+      "limit": 0.5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "double_lowers": [
+    {
+      "in": {
+        "original": "f"
+      },
+      "out": "ff",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "nyBIL"
+      },
+      "out": "nnyyBIL",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "yhc9BrAt4qniXkA"
+      },
+      "out": "yyhhcc9BrrAtt4qqnniiXkkA",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "lmuh"
+      },
+      "out": "llmmuuhh",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "mWmovzsd BhfO I6vABf9Wjs5Am48"
+      },
+      "out": "mmWmmoovvzzssdd BhhffO I6vvABff9Wjjss5Amm48",
+      "limit": 0.5
+    }
+  ]
+}

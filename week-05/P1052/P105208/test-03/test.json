@@ -1,0 +1,74 @@
+{
+  "double_odd_digits": [
+    {
+      "in": {
+        "original": "LG5V7Z4hOv9kEQR1Nc07XyS"
+      },
+      "out": "LG55V77Z4hOv99kEQR11Nc077XyS",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "3r3lSL5i3c"
+      },
+      "out": "33r33lSL55i33c",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "HC5"
+      },
+      "out": "HC55",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "c51Pkx114CJthz"
+      },
+      "out": "c5511Pkx11114CJthz",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "52"
+      },
+      "out": "552",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "q9O79IPamisR"
+      },
+      "out": "q99O7799IPamisR",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "9zg53wbvpW19Wn55"
+      },
+      "out": "99zg5533wbvpW1199Wn5555",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "1399T318K9iAu15 aCS9573O0iW953"
+      },
+      "out": "11339999T33118K99iAu1155 aCS99557733O0iW995533",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "HPXJKkrgeZD"
+      },
+      "out": "HPXJKkrgeZD",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Njf"
+      },
+      "out": "Njf",
+      "limit": 0.5
+    }
+  ]
+}

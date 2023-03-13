@@ -1,0 +1,25 @@
+{
+  "double_even_digits": [
+    {
+      "in": {
+        "original": "0fi8Bf8kFnh990A6 M0Io68f8eW"
+      },
+      "out": "00fi88Bf88kFnh9900A66 M00Io6688f88eW",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "BmT202zd2rSO58"
+      },
+      "out": "BmT220022zd22rSO588",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "726etZi8Q"
+      },
+      "out": "72266etZi88Q",
+      "limit": 0.5
+    }
+  ]
+}

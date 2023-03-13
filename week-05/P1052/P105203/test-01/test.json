@@ -1,0 +1,53 @@
+{
+  "double_uppers": [
+    {
+      "in": {
+        "original": "UPaP"
+      },
+      "out": "UUPPaPP",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "MTlPyWwFMMCPiZHLVAyqEKJ"
+      },
+      "out": "MMTTlPPyWWwFFMMMMCCPPiZZHHLLVVAAyqEEKKJJ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "XJ5AmcWZNMPP87ChEFl"
+      },
+      "out": "XXJJ5AAmcWWZZNNMMPPPP87CChEEFFl",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "OHABPQ5uQBQgV QOPWwuVDvBXQ"
+      },
+      "out": "OOHHAABBPPQQ5uQQBBQQgVV QQOOPPWWwuVVDDvBBXXQQ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "WQEgFcogwW"
+      },
+      "out": "WWQQEEgFFcogwWW",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ITHdyHkB"
+      },
+      "out": "IITTHHdyHHkBB",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "EBBH6r4NTYYZiFRXJFAmlfV3WQ"
+      },
+      "out": "EEBBBBHH6r4NNTTYYYYZZiFFRRXXJJFFAAmlfVV3WWQQ",
+      "limit": 0.5
+    }
+  ]
+}

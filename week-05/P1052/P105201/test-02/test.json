@@ -1,0 +1,39 @@
+{
+  "double_spaces": [
+    {
+      "in": {
+        "original": "H  hbQ6f   9 HEvEJoWfGv"
+      },
+      "out": "H    hbQ6f      9  HEvEJoWfGv",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "bUd  e Vjl5 eqYt7 d"
+      },
+      "out": "bUd    e  Vjl5  eqYt7  d",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "wQ 9uDuw5 lP Dox  4"
+      },
+      "out": "wQ  9uDuw5  lP  Dox    4",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "w H NWwrxgj dfiWUzVkj9A"
+      },
+      "out": "w  H  NWwrxgj  dfiWUzVkj9A",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": " voq"
+      },
+      "out": "  voq",
+      "limit": 0.5
+    }
+  ]
+}

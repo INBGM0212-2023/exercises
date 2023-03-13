@@ -1,0 +1,32 @@
+{
+  "double_even_digits": [
+    {
+      "in": {
+        "original": "700qt2O8nvIU6FC76v"
+      },
+      "out": "70000qt22O88nvIU66FC766v",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "48TNU66YX0VF0006fTDJSW8x4eg"
+      },
+      "out": "4488TNU6666YX00VF00000066fTDJSW88x44eg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "P1A029FsfEd"
+      },
+      "out": "P1A00229FsfEd",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "zf"
+      },
+      "out": "zf",
+      "limit": 0.5
+    }
+  ]
+}

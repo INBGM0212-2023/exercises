@@ -1,0 +1,60 @@
+{
+  "double_spaces": [
+    {
+      "in": {
+        "original": "Etjt KxI"
+      },
+      "out": "Etjt  KxI",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "y  BAi56 eXUj 5mQaU0YMWWg "
+      },
+      "out": "y    BAi56  eXUj  5mQaU0YMWWg  ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "GkhB53JTo9HbK29My  k"
+      },
+      "out": "GkhB53JTo9HbK29My    k",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "X 4dj9H tDoH Wa"
+      },
+      "out": "X  4dj9H  tDoH  Wa",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "3AH5k6 Be5TF9 C3Z7Bkvz 7B 5N"
+      },
+      "out": "3AH5k6  Be5TF9  C3Z7Bkvz  7B  5N",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "j6kSQKdO0Yd5 V8f 4wERPZl"
+      },
+      "out": "j6kSQKdO0Yd5  V8f  4wERPZl",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "s  pr"
+      },
+      "out": "s    pr",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "2k Zs0xq "
+      },
+      "out": "2k  Zs0xq  ",
+      "limit": 0.5
+    }
+  ]
+}

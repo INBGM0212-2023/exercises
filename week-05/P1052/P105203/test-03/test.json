@@ -1,0 +1,25 @@
+{
+  "double_uppers": [
+    {
+      "in": {
+        "original": "8gACiKBSIg"
+      },
+      "out": "8gAACCiKKBBSSIIg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "PvmV4FPZ"
+      },
+      "out": "PPvmVV4FFPPZZ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "E6LEO0DZ3XVVFo8j"
+      },
+      "out": "EE6LLEEOO0DDZZ3XXVVVVFFo8j",
+      "limit": 0.5
+    }
+  ]
+}

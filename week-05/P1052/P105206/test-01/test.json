@@ -1,0 +1,25 @@
+{
+  "double_consonants": [
+    {
+      "in": {
+        "original": "n00XZbmjI1vlvqgadrxj"
+      },
+      "out": "nn00XXZZbbmmjjI1vvllvvqqggaddrrxxjj",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "xMgydGjbgBWk"
+      },
+      "out": "xxMMggyyddGGjjbbggBBWWkk",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "r1Z6m"
+      },
+      "out": "rr1ZZ6mm",
+      "limit": 0.5
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "delete_even_digits": [
+    {
+      "in": {
+        "original": "587k8vQa84pF88h0Xz808n82S"
+      },
+      "out": "57kvQapFhXznS",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "GHn4cRJ0022hg4Q2820e82EE2"
+      },
+      "out": "GHncRJhgQeEE",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ch43qW88473KX24Xv6 H6287lQ"
+      },
+      "out": "ch3qW73KXXv H7lQ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "6806b49GCN5yk52ll4H6qe322n0624"
+      },
+      "out": "b9GCN5yk5llHqe3n",
+      "limit": 0.5
+    }
+  ]
+}

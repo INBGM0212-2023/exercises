@@ -1,0 +1,67 @@
+{
+  "delete_consonants": [
+    {
+      "in": {
+        "original": "bclgQ2nGOcxm6akEm6AbrVl5"
+      },
+      "out": "2O6aE6A5",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "hIlppqkvSYwWd7wSahntKndtsrneX"
+      },
+      "out": "I7ae",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "lshphbppL"
+      },
+      "out": "",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Rkykh tsmzqqztxhrA"
+      },
+      "out": " A",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "bxfzQfdfupfRclbEzdtxFk"
+      },
+      "out": "uE",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "cxzatgtdCjmtybzK4jbWGrix"
+      },
+      "out": "a4i",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "djKhmdlZ0bocyVvVy6I4 jlTyv"
+      },
+      "out": "0o6I4 ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "jbhxYhp7UqkZvgisjh5roH88"
+      },
+      "out": "7Ui5o88",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "0vwjb"
+      },
+      "out": "0",
+      "limit": 0.5
+    }
+  ]
+}

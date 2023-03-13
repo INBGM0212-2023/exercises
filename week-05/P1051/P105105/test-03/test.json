@@ -1,0 +1,25 @@
+{
+  "delete_vowels": [
+    {
+      "in": {
+        "original": "IOZ"
+      },
+      "out": "Z",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "uqJzhG2lGoKamcrRDaW"
+      },
+      "out": "qJzhG2lGKmcrRDW",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ukl"
+      },
+      "out": "kl",
+      "limit": 0.5
+    }
+  ]
+}

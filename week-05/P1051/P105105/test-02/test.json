@@ -1,0 +1,53 @@
+{
+  "delete_vowels": [
+    {
+      "in": {
+        "original": "5aNaVdoe4epVEyaoeWiijp1ja7a1ou"
+      },
+      "out": "5NVd4pVyWjp1j71",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "u4aT2u3e1L8iuhiT"
+      },
+      "out": "4T231L8hT",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Ew4vu"
+      },
+      "out": "w4v",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "BiiXqlao"
+      },
+      "out": "BXql",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "fuaa8cRe9ofbeioSeehbu3ze4oeue8"
+      },
+      "out": "f8cR9fbShb3z48",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "eitEPuui"
+      },
+      "out": "tP",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "e ov0eqeuHsmiPRuNj Cotef"
+      },
+      "out": " v0qHsmPRNj Ctf",
+      "limit": 0.5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "delete_even_digits": [
+    {
+      "in": {
+        "original": "T8MuOPQQbUq43Lx0He"
+      },
+      "out": "TMuOPQQbUq3LxHe",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "D02"
+      },
+      "out": "D",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "gi"
+      },
+      "out": "gi",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "diX8U0D0"
+      },
+      "out": "diXUD",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "XrGX0663 R7"
+      },
+      "out": "XrGX3 R7",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "4084HL924w0y624Ay8w646"
+      },
+      "out": "HL9wyAyw",
+      "limit": 0.5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "delete_lowers": [
+    {
+      "in": {
+        "original": "hmkaolbVhk2z6gdvxrnUq7l8hRM"
+      },
+      "out": "V26U78RM",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "CaTm1atqlm2eobjjFslQDU"
+      },
+      "out": "CT12FQDU",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "lWr2"
+      },
+      "out": "W2",
+      "limit": 0.5
+    }
+  ]
+}

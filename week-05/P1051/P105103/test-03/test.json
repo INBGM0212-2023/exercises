@@ -1,0 +1,74 @@
+{
+  "delete_uppers": [
+    {
+      "in": {
+        "original": "LbNAIbnG5BNyQqfxWGV4oWYT ZM4"
+      },
+      "out": "bbn5yqfx4o 4",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "KSMiR"
+      },
+      "out": "i",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "HOctBzNyM2nMDTC4XYtpTvU4NMOL"
+      },
+      "out": "ctzy2n4tpv4",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "AxOCuwQALUeXOLdXUPZH"
+      },
+      "out": "xuwed",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "cXWOIFJSogFD1uwYQDvCOYksMc7GT"
+      },
+      "out": "cog1uwvksc7",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "RPJT5ZbS"
+      },
+      "out": "5b",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "vTC"
+      },
+      "out": "v",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "VMZGOX0PYX"
+      },
+      "out": "0",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "X8XM XI2YUg"
+      },
+      "out": "8 2g",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "KGDrxD 1"
+      },
+      "out": "rx 1",
+      "limit": 0.5
+    }
+  ]
+}

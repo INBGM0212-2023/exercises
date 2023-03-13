@@ -1,0 +1,60 @@
+{
+  "delete_digits": [
+    {
+      "in": {
+        "original": "467I724ty7"
+      },
+      "out": "Ity",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "7"
+      },
+      "out": "",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "FhS1c27a2ns65d"
+      },
+      "out": "FhScansd",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "N06TVN7CpI4y7Llk"
+      },
+      "out": "NTVNCpIyLlk",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "94301r63Fg135ynB5D7Og341AO3"
+      },
+      "out": "rFgynBDOgAO",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "02N04BtH5063MQzvLG0892"
+      },
+      "out": "NBtHMQzvLG",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "cOIks4O359HPHJb70eQ"
+      },
+      "out": "cOIksOHPHJbeQ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "86WGO8yYI9iIh8gN31"
+      },
+      "out": "WGOyYIiIhgN",
+      "limit": 0.5
+    }
+  ]
+}

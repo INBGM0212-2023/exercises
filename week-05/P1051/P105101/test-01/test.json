@@ -1,0 +1,53 @@
+{
+  "delete_spaces": [
+    {
+      "in": {
+        "original": "78whLQGsQ"
+      },
+      "out": "78whLQGsQ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "FTl B34LxT dzpXxDHl dj"
+      },
+      "out": "FTlB34LxTdzpXxDHldj",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "t9 tv  aoNqh lVfWahYUHQdM "
+      },
+      "out": "t9tvaoNqhlVfWahYUHQdM",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Mk  eZ PxYl r "
+      },
+      "out": "MkeZPxYlr",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "UV8S4tzo "
+      },
+      "out": "UV8S4tzo",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "AfU zqmbl  utiar"
+      },
+      "out": "AfUzqmblutiar",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Fk8yT"
+      },
+      "out": "Fk8yT",
+      "limit": 0.5
+    }
+  ]
+}

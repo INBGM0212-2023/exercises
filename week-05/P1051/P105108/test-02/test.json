@@ -1,0 +1,32 @@
+{
+  "delete_odd_digits": [
+    {
+      "in": {
+        "original": "93TTkVAW73N"
+      },
+      "out": "TTkVAWN",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "U"
+      },
+      "out": "U",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "17w0Zt715S6Kl7pFm1Xwa95Nmiy7R"
+      },
+      "out": "w0ZtS6KlpFmXwaNmiyR",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "tsNgcDwgIO7a"
+      },
+      "out": "tsNgcDwgIOa",
+      "limit": 0.5
+    }
+  ]
+}

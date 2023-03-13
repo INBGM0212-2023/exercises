@@ -1,0 +1,25 @@
+{
+  "delete_spaces": [
+    {
+      "in": {
+        "original": "9jM"
+      },
+      "out": "9jM",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "48 84u JcQjLagMsfeU v5FB1t"
+      },
+      "out": "4884uJcQjLagMsfeUv5FB1t",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "PNEBSdyT m ml   puDy p"
+      },
+      "out": "PNEBSdyTmmlpuDyp",
+      "limit": 0.5
+    }
+  ]
+}

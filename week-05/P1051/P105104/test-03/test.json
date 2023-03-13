@@ -1,0 +1,39 @@
+{
+  "delete_digits": [
+    {
+      "in": {
+        "original": "374C0"
+      },
+      "out": "C",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "0742kXL44509zRx3301z51552I03"
+      },
+      "out": "kXLzRxzI",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "MJX7HO Q6f65u3"
+      },
+      "out": "MJXHO Qfu",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Tg7"
+      },
+      "out": "Tg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "3593OX74ku37 "
+      },
+      "out": "OXku ",
+      "limit": 0.5
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "delete_odd_digits": [
+    {
+      "in": {
+        "original": "jD7h11M7Ob7 mWpV56"
+      },
+      "out": "jDhMOb mWpV6",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ypO3sfYNqVg9vsDu7y"
+      },
+      "out": "ypOsfYNqVgvsDuy",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Gh979759N53mb5N5"
+      },
+      "out": "GhNmbN",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "W9d 17qdPt9uSG79LQVM99FJH3RRv"
+      },
+      "out": "Wd qdPtuSGLQVMFJHRRv",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": " b12LN5xA55MA59"
+      },
+      "out": " b2LNxAMA",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "7cMZ7pDk5SX719pXR231J151D"
+      },
+      "out": "cMZpDkSXpXR2JD",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "05cjp1TDwSl7h1735619R1b14hN"
+      },
+      "out": "0cjpTDwSlh6Rb4hN",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "W05Hv5ceFr7L551LQI1DFXw"
+      },
+      "out": "W0HvceFrLLQIDFXw",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Mkmjq"
+      },
+      "out": "Mkmjq",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "9333v07OD5ssp"
+      },
+      "out": "v0ODssp",
+      "limit": 0.5
+    }
+  ]
+}

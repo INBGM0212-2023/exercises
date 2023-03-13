@@ -1,0 +1,25 @@
+{
+  "is_c_identifier": [
+    {
+      "in": {
+        "value": "lbd8j"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "jrJJQzvgl5CG r6PEyaestnrK"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "jppkcurc7svr gPh26kor"
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

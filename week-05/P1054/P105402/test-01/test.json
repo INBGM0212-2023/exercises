@@ -1,0 +1,74 @@
+{
+  "is_email_address": [
+    {
+      "in": {
+        "value": "syvirppbljzvwhAxQseoBQaTDurR"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "ix1xbnjreE1y2VvqJlmi9UL3p"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "krDpGrtqwpVdete"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "nOjdeNdr32nQm"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "5pxWji sSsTpNSjrqtkDHUq3HgG"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "shE2oSqXmvuwin26W"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "K KafDcxuxHrsgpRoGj8"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "haJJWNfdXWfaUUuTCn7zb"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "gu9"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "HmkerBn9ay64s7iw9ivd"
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

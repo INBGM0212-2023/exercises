@@ -1,0 +1,46 @@
+{
+  "is_email_address": [
+    {
+      "in": {
+        "value": "ihfhqelqtaAxf1qayKv3n2pVyhw"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "4jjpjNdmBuxegiVygePWNh5yknThuL"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "PpolVrudbhGqLUqgxEjRkrNea"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "wAlayjy2pnoEs"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "pbbLFkMAtoWwbSelPu"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "yjbkgyt9jpjvI"
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

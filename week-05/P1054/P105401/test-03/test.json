@@ -1,0 +1,39 @@
+{
+  "is_c_identifier": [
+    {
+      "in": {
+        "value": "ujnwYq sjsVhbvy8VWluIu"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "Hn82mxnwrlo2"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "z"
+      },
+      "out": true,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "NjkYVfazs3nNEfvwkw"
+      },
+      "out": false,
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "value": "sUbztlwhhnOOnvcxceApy9XF0fpr"
+      },
+      "out": false,
+      "limit": 0.5
+    }
+  ]
+}

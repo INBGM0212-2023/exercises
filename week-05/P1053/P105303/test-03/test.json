@@ -1,0 +1,74 @@
+{
+  "increment_digits": [
+    {
+      "in": {
+        "original": "n5QUB319q2l0I0IX1wz0F82ws"
+      },
+      "out": "n6QUB420q3l1I1IX2wz1F93ws",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "8nW7vV230Jd9o640Wi08U2g38"
+      },
+      "out": "9nW8vV341Jd0o751Wi19U3g49",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Gg"
+      },
+      "out": "Gg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "59Qyz29J5x79mb"
+      },
+      "out": "60Qyz30J6x80mb",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "0Ozda6nb"
+      },
+      "out": "1Ozda7nb",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "g341493G5j06AE"
+      },
+      "out": "g452504G6j17AE",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "HrWFAs96Rgw5kAwrbI5F0pu9k"
+      },
+      "out": "HrWFAs07Rgw6kAwrbI6F1pu0k",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "1U90h7j781s330Ltl869d1I1hoH"
+      },
+      "out": "2U01h8j892s441Ltl970d2I2hoH",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "264C4f"
+      },
+      "out": "375C5f",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "sF28N4H4Dg5b2cq54vw"
+      },
+      "out": "sF39N5H5Dg6b3cq65vw",
+      "limit": 0.5
+    }
+  ]
+}

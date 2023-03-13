@@ -1,0 +1,32 @@
+{
+  "decrement_even_digits": [
+    {
+      "in": {
+        "original": "OBu6E88y"
+      },
+      "out": "OBu5E77y",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "z46v2AP64IFy20Q046"
+      },
+      "out": "z35v1AP53IFy19Q935",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "e4NFk88GM0g8Jf4v8QxZ3diW6Z"
+      },
+      "out": "e3NFk77GM9g7Jf3v7QxZ3diW5Z",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "278L2U82se0o2yIVIkB8"
+      },
+      "out": "177L1U71se9o1yIVIkB7",
+      "limit": 0.5
+    }
+  ]
+}

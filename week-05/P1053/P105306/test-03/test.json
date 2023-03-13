@@ -1,0 +1,39 @@
+{
+  "decrement_lowers": [
+    {
+      "in": {
+        "original": "sl1dywCg6TBaiwLi0ujisgulkCisr"
+      },
+      "out": "rk1cxvCf6TBzhvLh0tihrftkjChrq",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "mmKy"
+      },
+      "out": "llKx",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "zdUTGbjzMd7yIkEytByb"
+      },
+      "out": "ycUTGaiyMc7xIjExsBxa",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "6uaefbQgkGulaXgRmwalwkrJ"
+      },
+      "out": "6tzdeaQfjGtkzXfRlvzkvjqJ",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "fRj9uXKriEjjwlwxevji"
+      },
+      "out": "eRi9tXKqhEiivkvwduih",
+      "limit": 0.5
+    }
+  ]
+}

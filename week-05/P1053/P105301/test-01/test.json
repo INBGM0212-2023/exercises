@@ -1,0 +1,25 @@
+{
+  "increment_lowers": [
+    {
+      "in": {
+        "original": "qy4pA"
+      },
+      "out": "rz4qA",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ZscykaMornmWka"
+      },
+      "out": "ZtdzlbMpsonWlb",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "l1NWxazG3vZcdzOowJ4up"
+      },
+      "out": "m1NWybaG3wZdeaOpxJ4vq",
+      "limit": 0.5
+    }
+  ]
+}

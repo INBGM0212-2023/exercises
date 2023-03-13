@@ -1,0 +1,46 @@
+{
+  "decrement_digits": [
+    {
+      "in": {
+        "original": "09ZEY88BQc35"
+      },
+      "out": "98ZEY77BQc24",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "4Ow3"
+      },
+      "out": "3Ow2",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "BNZg7FR4x96F8X0G"
+      },
+      "out": "BNZg6FR3x85F7X9G",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ijO115a92N387Pi3ZC8mt0i6"
+      },
+      "out": "ijO004a81N276Pi2ZC7mt9i5",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "6l38CZ219wtl22M1Hyg"
+      },
+      "out": "5l27CZ108wtl11M0Hyg",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "S0R2g78XdlMH04j4"
+      },
+      "out": "S9R1g67XdlMH93j3",
+      "limit": 0.5
+    }
+  ]
+}

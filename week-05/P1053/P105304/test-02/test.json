@@ -1,0 +1,74 @@
+{
+  "increment_even_digits": [
+    {
+      "in": {
+        "original": "Cp40K4e"
+      },
+      "out": "Cp51K5e",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "LvbZ1jn88Lj4T440wfVFcR6xW"
+      },
+      "out": "LvbZ1jn99Lj5T551wfVFcR7xW",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "vC02bZ3To2"
+      },
+      "out": "vC13bZ3To3",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "u2 6kA616K403CZo"
+      },
+      "out": "u3 7kA717K513CZo",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "248Z30e"
+      },
+      "out": "359Z31e",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "3BR7m9C200HB4ZyG8B24l4v7"
+      },
+      "out": "3BR7m9C311HB5ZyG9B35l5v7",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "RK4248pS 2ZT88UM2q2Vf"
+      },
+      "out": "RK5359pS 3ZT99UM3q3Vf",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "x54gVIbD84Ef"
+      },
+      "out": "x55gVIbD95Ef",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "InXsqR0Z30Yh"
+      },
+      "out": "InXsqR1Z31Yh",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "24AYfA 41p2KHC4N4c0xm28eM1P46"
+      },
+      "out": "35AYfA 51p3KHC5N5c1xm39eM1P57",
+      "limit": 0.5
+    }
+  ]
+}

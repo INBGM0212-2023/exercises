@@ -1,0 +1,39 @@
+{
+  "increment_digits": [
+    {
+      "in": {
+        "original": "O4m788Kb758L56KoOaY3Bt19"
+      },
+      "out": "O5m899Kb869L67KoOaY4Bt20",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "A7ue9"
+      },
+      "out": "A8ue0",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "0oQMa8"
+      },
+      "out": "1oQMa9",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "SB575n2o622978514"
+      },
+      "out": "SB686n3o733089625",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "g6Oh6G26Ep3m55D4835k"
+      },
+      "out": "g7Oh7G37Ep4m66D5946k",
+      "limit": 0.5
+    }
+  ]
+}

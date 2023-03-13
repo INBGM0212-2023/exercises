@@ -1,0 +1,46 @@
+{
+  "increment_odd_digits": [
+    {
+      "in": {
+        "original": "WCJtBZ2f3Mv97gBMA"
+      },
+      "out": "WCJtBZ2f4Mv08gBMA",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "m9M757X19"
+      },
+      "out": "m0M868X20",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "9Vc5UZh"
+      },
+      "out": "0Vc6UZh",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "w478l95"
+      },
+      "out": "w488l06",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "x9r3D7aCl"
+      },
+      "out": "x0r4D8aCl",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "5 DZ5"
+      },
+      "out": "6 DZ6",
+      "limit": 0.5
+    }
+  ]
+}

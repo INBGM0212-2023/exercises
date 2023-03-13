@@ -1,0 +1,32 @@
+{
+  "decrement_odd_digits": [
+    {
+      "in": {
+        "original": "f65kf"
+      },
+      "out": "f64kf",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "7wr 5lRa1an9951XAZ3p1EPk"
+      },
+      "out": "6wr 4lRa0an8840XAZ2p0EPk",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "CvYS1s3hw395mXI3V9e3y"
+      },
+      "out": "CvYS0s2hw284mXI2V8e2y",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "mphg3"
+      },
+      "out": "mphg2",
+      "limit": 0.5
+    }
+  ]
+}

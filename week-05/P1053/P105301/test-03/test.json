@@ -1,0 +1,53 @@
+{
+  "increment_lowers": [
+    {
+      "in": {
+        "original": "dmgghrqdPwPv1rym9tkpcD"
+      },
+      "out": "enhhisrePxPw1szn9ulqdD",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "hqFbzgcHx5"
+      },
+      "out": "irFcahdHy5",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "otvJwihTVb8pKWlzqGYyAmrvv"
+      },
+      "out": "puwJxjiTVc8qKWmarGYzAnsww",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "cuR3"
+      },
+      "out": "dvR3",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ivfysZbNXe"
+      },
+      "out": "jwgztZcNXf",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "tQdtl"
+      },
+      "out": "uQeum",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "etRkfcltyu"
+      },
+      "out": "fuRlgdmuzv",
+      "limit": 0.5
+    }
+  ]
+}

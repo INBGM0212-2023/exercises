@@ -1,0 +1,25 @@
+{
+  "increment_digits": [
+    {
+      "in": {
+        "original": "bG4 ED9G82"
+      },
+      "out": "bG5 ED0G93",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "s5S1E5iNU579S00E154S5"
+      },
+      "out": "s6S2E6iNU680S11E265S6",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": " FQ3665x0g87oC10N14rT1E7"
+      },
+      "out": " FQ4776x1g98oC21N25rT2E8",
+      "limit": 0.5
+    }
+  ]
+}

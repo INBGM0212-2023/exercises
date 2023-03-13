@@ -1,0 +1,32 @@
+{
+  "decrement_lowers": [
+    {
+      "in": {
+        "original": "nS IfBEqPPmvxrgQvglcowJvsjc"
+      },
+      "out": "mS IeBEpPPluwqfQufkbnvJurib",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "iNsvgzMwQawwtyOlzrfwiPY"
+      },
+      "out": "hNrufyMvQzvvsxOkyqevhPY",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "GQyhf"
+      },
+      "out": "GQxge",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "R2yj w dF"
+      },
+      "out": "R2xi v cF",
+      "limit": 0.5
+    }
+  ]
+}

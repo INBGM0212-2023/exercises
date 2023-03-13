@@ -1,0 +1,25 @@
+{
+  "increment_uppers": [
+    {
+      "in": {
+        "original": "J5V4JlVsX9T"
+      },
+      "out": "K5W4KlWsY9U",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "EQZ7ZOZYNS4nzXC9AYIb3mMMZHO"
+      },
+      "out": "FRA7APAZOT4nzYD9BZJb3mNNAIP",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "BdSmQK"
+      },
+      "out": "CdTmRL",
+      "limit": 0.5
+    }
+  ]
+}

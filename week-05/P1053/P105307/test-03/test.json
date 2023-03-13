@@ -1,0 +1,60 @@
+{
+  "decrement_uppers": [
+    {
+      "in": {
+        "original": "hJcUMVNFN6r gCGCAHduLY"
+      },
+      "out": "hIcTLUMEM6r gBFBZGduKX",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Nu"
+      },
+      "out": "Mu",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "6UO2OXnrjL7b"
+      },
+      "out": "6TN2NWnrjK7b",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "FBOtZqxQFJoFcaS"
+      },
+      "out": "EANtYqxPEIoEcaR",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "iKuvQeAom8xtipMDFn"
+      },
+      "out": "iJuvPeZom8xtipLCEn",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Hr3uGFcMLWqPFHStBHFTXng"
+      },
+      "out": "Gr3uFEcLKVqOEGRtAGESWng",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "RRVXDrdRHXOIAHaGOPsJARXN DS"
+      },
+      "out": "QQUWCrdQGWNHZGaFNOsIZQWM CR",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "D0H7WhUwFwJgPnYJbMR7IKX8k"
+      },
+      "out": "C0G7VhTwEwIgOnXIbLQ7HJW8k",
+      "limit": 0.5
+    }
+  ]
+}

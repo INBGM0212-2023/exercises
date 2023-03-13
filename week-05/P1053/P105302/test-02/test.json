@@ -1,0 +1,39 @@
+{
+  "increment_uppers": [
+    {
+      "in": {
+        "original": "Y9UKIKFg1qQL4lFJQCFUDSSSSE"
+      },
+      "out": "Z9VLJLGg1qRM4lGKRDGVETTTTF",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "G9XhfYZ6QJUNsSLHEZIMtW QOoOPZa"
+      },
+      "out": "H9YhfZA6RKVOsTMIFAJNtX RPoPQAa",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "QD1J"
+      },
+      "out": "RE1K",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "OQSNVkTDeEJTZOIOOHU"
+      },
+      "out": "PRTOWkUEeFKUAPJPPIV",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "LKdKZeMDMXRKtUUNCLHAnUNMEE"
+      },
+      "out": "MLdLAeNENYSLtVVODMIBnVONFF",
+      "limit": 0.5
+    }
+  ]
+}

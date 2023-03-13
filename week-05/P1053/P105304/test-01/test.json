@@ -1,0 +1,60 @@
+{
+  "increment_even_digits": [
+    {
+      "in": {
+        "original": " 00n"
+      },
+      "out": " 11n",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "4862oak02o6Otpbs8168k"
+      },
+      "out": "5973oak13o7Otpbs9179k",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "r49caPaP2f80"
+      },
+      "out": "r59caPaP3f91",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "p82JG8lwYyVg0L P92Grdi 46xMl"
+      },
+      "out": "p93JG9lwYyVg1L P93Grdi 57xMl",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "ZW7i22XNi86IkMh0Av24m6zs4"
+      },
+      "out": "ZW7i33XNi97IkMh1Av35m7zs5",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "U4h6ar"
+      },
+      "out": "U5h7ar",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "0"
+      },
+      "out": "1",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "0 rQf668YdVM6wE2kQ4"
+      },
+      "out": "1 rQf779YdVM7wE3kQ5",
+      "limit": 0.5
+    }
+  ]
+}

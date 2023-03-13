@@ -1,0 +1,32 @@
+{
+  "decrement_even_digits": [
+    {
+      "in": {
+        "original": "4h9z41pzIOHa4X"
+      },
+      "out": "3h9z31pzIOHa3X",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "T6Wb466PV8"
+      },
+      "out": "T5Wb355PV7",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "Wp42B4TFsB1cOt242q0kAx4UG"
+      },
+      "out": "Wp31B3TFsB1cOt131q9kAx3UG",
+      "limit": 0.5
+    },
+    {
+      "in": {
+        "original": "b9MU"
+      },
+      "out": "b9MU",
+      "limit": 0.5
+    }
+  ]
+}

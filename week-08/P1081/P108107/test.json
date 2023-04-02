@@ -1,0 +1,6 @@
+{
+  "tests": [
+    "test-00"
+  ],
+  "timeout-cmd": 1
+}

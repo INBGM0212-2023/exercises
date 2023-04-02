@@ -1,0 +1,251 @@
+{
+  "type-order": [
+    "RollerCoaster"
+  ],
+  "types": {
+    "RollerCoaster": {
+      "name": "<class 'str'>",
+      "world": "<class 'str'>",
+      "height": "<class 'int'>",
+      "time": "<class 'int'>"
+    }
+  },
+  "function-order": [
+    "from_line",
+    "to_line",
+    "order"
+  ],
+  "functions": {
+    "from_line": [
+      {
+        "in": {
+          "line": "Furius baco;Mediterranea;140;120"
+        },
+        "out": {
+          "name": "Stampida",
+          "world": "Far West",
+          "height": 120,
+          "time": 20
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Shambhala;China;140;120"
+        },
+        "out": {
+          "name": "Tami Tami",
+          "world": "SesamoAventura",
+          "height": 100,
+          "time": 20
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Dragon Khan;China;140;80"
+        },
+        "out": {
+          "name": "El Diablo",
+          "world": "Mexico",
+          "height": 140,
+          "time": 30
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Stampida;Far West;120;20"
+        },
+        "out": {
+          "name": "Dragon Khan",
+          "world": "China",
+          "height": 140,
+          "time": 80
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Tami Tami;SesamoAventura;100;20"
+        },
+        "out": {
+          "name": "Furius baco",
+          "world": "Mediterranea",
+          "height": 140,
+          "time": 120
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "El Diablo;Mexico;140;30"
+        },
+        "out": {
+          "name": "Shambhala",
+          "world": "China",
+          "height": 140,
+          "time": 120
+        },
+        "limit": 1
+      }
+    ],
+    "to_line": [
+      {
+        "in": {
+          "coaster": {
+            "name": "Stampida",
+            "world": "Far West",
+            "height": 120,
+            "time": 20
+          }
+        },
+        "out": "Stampida (Far West): 20",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coaster": {
+            "name": "Tami Tami",
+            "world": "SesamoAventura",
+            "height": 100,
+            "time": 20
+          }
+        },
+        "out": "Tami Tami (SesamoAventura): 20",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coaster": {
+            "name": "El Diablo",
+            "world": "Mexico",
+            "height": 140,
+            "time": 30
+          }
+        },
+        "out": "El Diablo (Mexico): 30",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coaster": {
+            "name": "Dragon Khan",
+            "world": "China",
+            "height": 140,
+            "time": 80
+          }
+        },
+        "out": "Dragon Khan (China): 80",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coaster": {
+            "name": "Furius baco",
+            "world": "Mediterranea",
+            "height": 140,
+            "time": 120
+          }
+        },
+        "out": "Furius baco (Mediterranea): 120",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coaster": {
+            "name": "Shambhala",
+            "world": "China",
+            "height": 140,
+            "time": 120
+          }
+        },
+        "out": "Shambhala (China): 120",
+        "limit": 1
+      }
+    ],
+    "order": [
+      {
+        "in": {
+          "coasters": [
+            {
+              "name": "Stampida",
+              "world": "Far West",
+              "height": 120,
+              "time": 20
+            },
+            {
+              "name": "Tami Tami",
+              "world": "SesamoAventura",
+              "height": 100,
+              "time": 20
+            },
+            {
+              "name": "El Diablo",
+              "world": "Mexico",
+              "height": 140,
+              "time": 30
+            },
+            {
+              "name": "Dragon Khan",
+              "world": "China",
+              "height": 140,
+              "time": 80
+            },
+            {
+              "name": "Furius baco",
+              "world": "Mediterranea",
+              "height": 140,
+              "time": 120
+            },
+            {
+              "name": "Shambhala",
+              "world": "China",
+              "height": 140,
+              "time": 120
+            }
+          ]
+        },
+        "out": [
+          {
+            "name": "Stampida",
+            "world": "Far West",
+            "height": 120,
+            "time": 20
+          },
+          {
+            "name": "Tami Tami",
+            "world": "SesamoAventura",
+            "height": 100,
+            "time": 20
+          },
+          {
+            "name": "El Diablo",
+            "world": "Mexico",
+            "height": 140,
+            "time": 30
+          },
+          {
+            "name": "Dragon Khan",
+            "world": "China",
+            "height": 140,
+            "time": 80
+          },
+          {
+            "name": "Furius baco",
+            "world": "Mediterranea",
+            "height": 140,
+            "time": 120
+          },
+          {
+            "name": "Shambhala",
+            "world": "China",
+            "height": 140,
+            "time": 120
+          }
+        ],
+        "limit": 2
+      }
+    ]
+  }
+}

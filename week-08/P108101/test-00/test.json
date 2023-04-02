@@ -1,0 +1,179 @@
+{
+  "type-order": [
+    "Minion"
+  ],
+  "types": {
+    "Minion": {
+      "name": "<class 'str'>",
+      "hunger": "<class 'int'>",
+      "motivation": "<class 'int'>",
+      "size": "<class 'str'>"
+    }
+  },
+  "function-order": [
+    "from_line",
+    "to_line",
+    "order"
+  ],
+  "functions": {
+    "from_line": [
+      {
+        "in": {
+          "line": "Bob;87;100;S"
+        },
+        "out": {
+          "name": "Bob",
+          "hunger": 87,
+          "motivation": 100,
+          "size": "S"
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Dave;43;10;L"
+        },
+        "out": {
+          "name": "Dave",
+          "hunger": 43,
+          "motivation": 10,
+          "size": "L"
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Stuart;50;30;L"
+        },
+        "out": {
+          "name": "Stuart",
+          "hunger": 50,
+          "motivation": 30,
+          "size": "L"
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Jerry;40;20;XL"
+        },
+        "out": {
+          "name": "Jerry",
+          "hunger": 40,
+          "motivation": 20,
+          "size": "XL"
+        },
+        "limit": 1
+      }
+    ],
+    "to_line": [
+      {
+        "in": {
+          "minion": {
+            "name": "Bob",
+            "hunger": 87,
+            "motivation": 100,
+            "size": "S"
+          }
+        },
+        "out": "Bob 87 (S)",
+        "limit": 1
+      },
+      {
+        "in": {
+          "minion": {
+            "name": "Dave",
+            "hunger": 43,
+            "motivation": 10,
+            "size": "L"
+          }
+        },
+        "out": "Dave 43 (L)",
+        "limit": 1
+      },
+      {
+        "in": {
+          "minion": {
+            "name": "Stuart",
+            "hunger": 50,
+            "motivation": 30,
+            "size": "L"
+          }
+        },
+        "out": "Stuart 50 (L)",
+        "limit": 1
+      },
+      {
+        "in": {
+          "minion": {
+            "name": "Jerry",
+            "hunger": 40,
+            "motivation": 20,
+            "size": "XL"
+          }
+        },
+        "out": "Jerry 40 (XL)",
+        "limit": 1
+      }
+    ],
+    "order": [
+      {
+        "in": {
+          "minions": [
+            {
+              "name": "Bob",
+              "hunger": 87,
+              "motivation": 100,
+              "size": "S"
+            },
+            {
+              "name": "Dave",
+              "hunger": 43,
+              "motivation": 10,
+              "size": "L"
+            },
+            {
+              "name": "Stuart",
+              "hunger": 50,
+              "motivation": 30,
+              "size": "L"
+            },
+            {
+              "name": "Jerry",
+              "hunger": 40,
+              "motivation": 20,
+              "size": "XL"
+            }
+          ]
+        },
+        "out": [
+          {
+            "name": "Bob",
+            "hunger": 87,
+            "motivation": 100,
+            "size": "S"
+          },
+          {
+            "name": "Stuart",
+            "hunger": 50,
+            "motivation": 30,
+            "size": "L"
+          },
+          {
+            "name": "Jerry",
+            "hunger": 40,
+            "motivation": 20,
+            "size": "XL"
+          },
+          {
+            "name": "Dave",
+            "hunger": 43,
+            "motivation": 10,
+            "size": "L"
+          }
+        ],
+        "limit": 2
+      }
+    ]
+  }
+}

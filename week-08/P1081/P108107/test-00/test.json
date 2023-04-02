@@ -1,0 +1,194 @@
+{
+  "type-order": [
+    "Coupon"
+  ],
+  "types": {
+    "Coupon": {
+      "store": "<class 'str'>",
+      "product": "<class 'str'>",
+      "discount": "<class 'int'>"
+    }
+  },
+  "function-order": [
+    "from_line",
+    "to_line",
+    "order"
+  ],
+  "functions": {
+    "from_line": [
+      {
+        "in": {
+          "line": "Samsung Experience Store;kiegeszitok;20"
+        },
+        "out": {
+          "store": "Samsung Experience Store",
+          "product": "kiegeszitok",
+          "discount": 20
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "BiotechUSA;minden termek;20"
+        },
+        "out": {
+          "store": "BiotechUSA",
+          "product": "minden termek",
+          "discount": 20
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "J.Press;teljes aru termekek;20"
+        },
+        "out": {
+          "store": "J.Press",
+          "product": "teljes aru termekek",
+          "discount": 20
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Media Markt;kavefozok;20"
+        },
+        "out": {
+          "store": "Media Markt",
+          "product": "kavefozok",
+          "discount": 20
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Rossmann;dekorkozmetikai termekek;30"
+        },
+        "out": {
+          "store": "Rossmann",
+          "product": "dekorkozmetikai termekek",
+          "discount": 30
+        },
+        "limit": 1
+      }
+    ],
+    "to_line": [
+      {
+        "in": {
+          "coupon": {
+            "store": "Samsung Experience Store",
+            "product": "kiegeszitok",
+            "discount": 20
+          }
+        },
+        "out": "kiegeszitok (Samsung Experience Store): 20%",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coupon": {
+            "store": "BiotechUSA",
+            "product": "minden termek",
+            "discount": 20
+          }
+        },
+        "out": "minden termek (BiotechUSA): 20%",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coupon": {
+            "store": "J.Press",
+            "product": "teljes aru termekek",
+            "discount": 20
+          }
+        },
+        "out": "teljes aru termekek (J.Press): 20%",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coupon": {
+            "store": "Media Markt",
+            "product": "kavefozok",
+            "discount": 20
+          }
+        },
+        "out": "kavefozok (Media Markt): 20%",
+        "limit": 1
+      },
+      {
+        "in": {
+          "coupon": {
+            "store": "Rossmann",
+            "product": "dekorkozmetikai termekek",
+            "discount": 30
+          }
+        },
+        "out": "dekorkozmetikai termekek (Rossmann): 30%",
+        "limit": 1
+      }
+    ],
+    "order": [
+      {
+        "in": {
+          "coupons": [
+            {
+              "store": "Samsung Experience Store",
+              "product": "kiegeszitok",
+              "discount": 20
+            },
+            {
+              "store": "BiotechUSA",
+              "product": "minden termek",
+              "discount": 20
+            },
+            {
+              "store": "J.Press",
+              "product": "teljes aru termekek",
+              "discount": 20
+            },
+            {
+              "store": "Media Markt",
+              "product": "kavefozok",
+              "discount": 20
+            },
+            {
+              "store": "Rossmann",
+              "product": "dekorkozmetikai termekek",
+              "discount": 30
+            }
+          ]
+        },
+        "out": [
+          {
+            "store": "BiotechUSA",
+            "product": "minden termek",
+            "discount": 20
+          },
+          {
+            "store": "J.Press",
+            "product": "teljes aru termekek",
+            "discount": 20
+          },
+          {
+            "store": "Media Markt",
+            "product": "kavefozok",
+            "discount": 20
+          },
+          {
+            "store": "Rossmann",
+            "product": "dekorkozmetikai termekek",
+            "discount": 30
+          },
+          {
+            "store": "Samsung Experience Store",
+            "product": "kiegeszitok",
+            "discount": 20
+          }
+        ],
+        "limit": 2
+      }
+    ]
+  }
+}

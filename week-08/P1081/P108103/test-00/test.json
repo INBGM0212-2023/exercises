@@ -1,0 +1,179 @@
+{
+  "type-order": [
+    "Airport"
+  ],
+  "types": {
+    "Airport": {
+      "name": "<class 'str'>",
+      "city": "<class 'str'>",
+      "runways": "<class 'int'>",
+      "time": "<class 'int'>"
+    }
+  },
+  "function-order": [
+    "from_line",
+    "to_line",
+    "order"
+  ],
+  "functions": {
+    "from_line": [
+      {
+        "in": {
+          "line": "Zurich Kloten;Zurich;3;360"
+        },
+        "out": {
+          "name": "Zurich Kloten",
+          "city": "Zurich",
+          "runways": 3,
+          "time": 360
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "London Heathrow;London;2;240"
+        },
+        "out": {
+          "name": "London Heathrow",
+          "city": "London",
+          "runways": 2,
+          "time": 240
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Istanbul Ataturk;Isztambul;3;120"
+        },
+        "out": {
+          "name": "Istanbul Ataturk",
+          "city": "Isztambul",
+          "runways": 3,
+          "time": 120
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "Barcelona El Prat;Barcelona;3;150"
+        },
+        "out": {
+          "name": "Barcelona El Prat",
+          "city": "Barcelona",
+          "runways": 3,
+          "time": 150
+        },
+        "limit": 1
+      }
+    ],
+    "to_line": [
+      {
+        "in": {
+          "airport": {
+            "name": "Zurich Kloten",
+            "city": "Zurich",
+            "runways": 3,
+            "time": 360
+          }
+        },
+        "out": "Zurich Kloten (Zurich): 360",
+        "limit": 1
+      },
+      {
+        "in": {
+          "airport": {
+            "name": "London Heathrow",
+            "city": "London",
+            "runways": 2,
+            "time": 240
+          }
+        },
+        "out": "London Heathrow (London): 240",
+        "limit": 1
+      },
+      {
+        "in": {
+          "airport": {
+            "name": "Istanbul Ataturk",
+            "city": "Isztambul",
+            "runways": 3,
+            "time": 120
+          }
+        },
+        "out": "Istanbul Ataturk (Isztambul): 120",
+        "limit": 1
+      },
+      {
+        "in": {
+          "airport": {
+            "name": "Barcelona El Prat",
+            "city": "Barcelona",
+            "runways": 3,
+            "time": 150
+          }
+        },
+        "out": "Barcelona El Prat (Barcelona): 150",
+        "limit": 1
+      }
+    ],
+    "order": [
+      {
+        "in": {
+          "airports": [
+            {
+              "name": "Zurich Kloten",
+              "city": "Zurich",
+              "runways": 3,
+              "time": 360
+            },
+            {
+              "name": "London Heathrow",
+              "city": "London",
+              "runways": 2,
+              "time": 240
+            },
+            {
+              "name": "Istanbul Ataturk",
+              "city": "Isztambul",
+              "runways": 3,
+              "time": 120
+            },
+            {
+              "name": "Barcelona El Prat",
+              "city": "Barcelona",
+              "runways": 3,
+              "time": 150
+            }
+          ]
+        },
+        "out": [
+          {
+            "name": "Zurich Kloten",
+            "city": "Zurich",
+            "runways": 3,
+            "time": 360
+          },
+          {
+            "name": "Barcelona El Prat",
+            "city": "Barcelona",
+            "runways": 3,
+            "time": 150
+          },
+          {
+            "name": "Istanbul Ataturk",
+            "city": "Isztambul",
+            "runways": 3,
+            "time": 120
+          },
+          {
+            "name": "London Heathrow",
+            "city": "London",
+            "runways": 2,
+            "time": 240
+          }
+        ],
+        "limit": 2
+      }
+    ]
+  }
+}

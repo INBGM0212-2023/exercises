@@ -1,0 +1,215 @@
+{
+  "type-order": [
+    "LegoSet"
+  ],
+  "types": {
+    "LegoSet": {
+      "number": "<class 'int'>",
+      "name": "<class 'str'>",
+      "theme": "<class 'str'>",
+      "pieces": "<class 'int'>"
+    }
+  },
+  "function-order": [
+    "from_line",
+    "to_line",
+    "order"
+  ],
+  "functions": {
+    "from_line": [
+      {
+        "in": {
+          "line": "30356;Hot dog arus;Lego City;43"
+        },
+        "out": {
+          "number": 30356,
+          "name": "Hot dog arus",
+          "theme": "Lego City",
+          "pieces": 43
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "30360;Sarkvideki jegfuresz;Lego City;43"
+        },
+        "out": {
+          "number": 30360,
+          "name": "Sarkvideki jegfuresz",
+          "theme": "Lego City",
+          "pieces": 43
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "30381;Birodalmi TIE Fighter;Lego Star Wars;42"
+        },
+        "out": {
+          "number": 30381,
+          "name": "Birodalmi TIE Fighter",
+          "theme": "Lego Star Wars",
+          "pieces": 42
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "10258;London Bus;Lego Creator Expert;1686"
+        },
+        "out": {
+          "number": 10258,
+          "name": "London Bus",
+          "theme": "Lego Creator Expert",
+          "pieces": 1686
+        },
+        "limit": 1
+      },
+      {
+        "in": {
+          "line": "10253;Big Ben;Lego Creator Expert;4163"
+        },
+        "out": {
+          "number": 10253,
+          "name": "Big Ben",
+          "theme": "Lego Creator Expert",
+          "pieces": 4163
+        },
+        "limit": 1
+      }
+    ],
+    "to_line": [
+      {
+        "in": {
+          "lego_set": {
+            "number": 30356,
+            "name": "Hot dog arus",
+            "theme": "Lego City",
+            "pieces": 43
+          }
+        },
+        "out": "Hot dog arus (30356): 43 - Lego City",
+        "limit": 1
+      },
+      {
+        "in": {
+          "lego_set": {
+            "number": 30360,
+            "name": "Sarkvideki jegfuresz",
+            "theme": "Lego City",
+            "pieces": 43
+          }
+        },
+        "out": "Sarkvideki jegfuresz (30360): 43 - Lego City",
+        "limit": 1
+      },
+      {
+        "in": {
+          "lego_set": {
+            "number": 30381,
+            "name": "Birodalmi TIE Fighter",
+            "theme": "Lego Star Wars",
+            "pieces": 42
+          }
+        },
+        "out": "Birodalmi TIE Fighter (30381): 42 - Lego Star Wars",
+        "limit": 1
+      },
+      {
+        "in": {
+          "lego_set": {
+            "number": 10258,
+            "name": "London Bus",
+            "theme": "Lego Creator Expert",
+            "pieces": 1686
+          }
+        },
+        "out": "London Bus (10258): 1686 - Lego Creator Expert",
+        "limit": 1
+      },
+      {
+        "in": {
+          "lego_set": {
+            "number": 10253,
+            "name": "Big Ben",
+            "theme": "Lego Creator Expert",
+            "pieces": 4163
+          }
+        },
+        "out": "Big Ben (10253): 4163 - Lego Creator Expert",
+        "limit": 1
+      }
+    ],
+    "order": [
+      {
+        "in": {
+          "lego_sets": [
+            {
+              "number": 30356,
+              "name": "Hot dog arus",
+              "theme": "Lego City",
+              "pieces": 43
+            },
+            {
+              "number": 30360,
+              "name": "Sarkvideki jegfuresz",
+              "theme": "Lego City",
+              "pieces": 43
+            },
+            {
+              "number": 30381,
+              "name": "Birodalmi TIE Fighter",
+              "theme": "Lego Star Wars",
+              "pieces": 42
+            },
+            {
+              "number": 10258,
+              "name": "London Bus",
+              "theme": "Lego Creator Expert",
+              "pieces": 1686
+            },
+            {
+              "number": 10253,
+              "name": "Big Ben",
+              "theme": "Lego Creator Expert",
+              "pieces": 4163
+            }
+          ]
+        },
+        "out": [
+          {
+            "number": 10253,
+            "name": "Big Ben",
+            "theme": "Lego Creator Expert",
+            "pieces": 4163
+          },
+          {
+            "number": 10258,
+            "name": "London Bus",
+            "theme": "Lego Creator Expert",
+            "pieces": 1686
+          },
+          {
+            "number": 30356,
+            "name": "Hot dog arus",
+            "theme": "Lego City",
+            "pieces": 43
+          },
+          {
+            "number": 30360,
+            "name": "Sarkvideki jegfuresz",
+            "theme": "Lego City",
+            "pieces": 43
+          },
+          {
+            "number": 30381,
+            "name": "Birodalmi TIE Fighter",
+            "theme": "Lego Star Wars",
+            "pieces": 42
+          }
+        ],
+        "limit": 2
+      }
+    ]
+  }
+}

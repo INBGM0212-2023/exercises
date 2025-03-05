@@ -1,6 +1,6 @@
 [↑ Vissza a szülő kategóriába](../README.md)
 
-# Rekurzív `n` faktoriális
+# Rekurzív függvények
 
 1. `P103301-n` -  [Rekurzív `n` faktoriális (`n` teszteset)](./P103301-n.md)
 1. `P103301-e` -  [Rekurzív `n` faktoriális (állományvégjelig olvasás)](./P103301-e.md)
